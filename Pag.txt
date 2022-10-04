@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Curriculum Henry Morales</title>
+</head>
+<body>
+
+<h1>Curriculum Vitae de Henry Morales</h1>
+
+<h2>Datos personales</h2>
+<ul>
+<li>Nombre y apellidos:  <strong>Henry Abdiel Morales Galindo</strong></li>
+<li>Fecha de nacimiento: <strong>13 de junio de 2006</strong></li>
+<li>Lugar de nacimiento:  <strong>Villa Nueva</strong></li>
+<li>Estado civil:  <strong>Soltero</strong></li>
+<li>Direccion:  <strong>2da Av A 9-03 colonia 30 de octubre</strong></li>
+<li>Codigo postal-Ciudad:  <strong>01064 Villa Nueva (Guatemala)</strong></li>
+<li>Estado civil:  <strong>Soltero</strong></li>
+<li>Estado civil:  <strong>Soltero</strong></li>
+<li>Estado civil:  <strong>Soltero</strong></li>
+</ul>
+
+<h2>Formación académica</h2>
+<ul>
+<li>1956-1961: <strong>Universidad del Espantapájaros</strong></li>
+<li>1952-1956: <strong>Instituto de Dos Caras</strong></li>
+<li>1944-1952:  <strong>Escuela Primaria del Joker</strong></li>
+</ul>
+
+<h2>Experiencia laboral</h2>
+<ul>
+<li>1975-1985: <strong>En el paro</strong></li>
+<li>1965-1975: <strong>Cazavillanos y demás chusma</strong></li>
+<li>1962-1965: <strong>Aprendiz de superhéroe</strong></li>
+</ul>
+
+</body>
+</html>
